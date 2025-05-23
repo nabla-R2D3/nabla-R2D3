@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 
+## Official code repo of paper: Nabla-R2D3: Effective and Efficient 3D Diffusion Alignment with 2D Rewards
 
 <!--
 **nabla-R2D3/nabla-R2D3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
