@@ -1,0 +1,18 @@
+__pycache__/
+build/
+*.egg-info/
+out/
+output*/
+temp/
+log/
+download/*.json
+download/*.csv
+temp*.*
+*.tar*
+*.vsix
+wandb/
+*.csv
+# extensions/normal_priors
+*.png
+extensions/normal_priors/*.txt
+models/*
